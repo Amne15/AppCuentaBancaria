@@ -14,6 +14,7 @@ namespace AppCuentaBancaria
 
             //Crea un objeto de la clase Cuenta.
             Cuenta cuenta = new Cuenta();
+
             
             //Asigna un número de cuenta, un nombre, un saldo y un tipo de interés. 
             cuenta.setNumCuenta(1);
